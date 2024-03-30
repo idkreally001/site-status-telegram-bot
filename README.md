@@ -61,3 +61,7 @@ This is a basic foundation! Feel free to contribute by suggesting enhancements, 
 ## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+## Issues 
+
+As far as I am concerned, the code works perfectly. You can report any issues if you want.
