@@ -46,8 +46,10 @@ Clone this repository using terminal:
 -Deployment (Optional): If deploying to a server, consider running the script as a background process for continuous monitoring.
 
 This application can be deployed on cloud platforms for convenience and continuous monitoring. Here are a couple of popular options:
-    * **PythonAnywhere:** ([https://www.pythonanywhere.com](https://www.pythonanywhere.com)) – PythonAnywhere offers a user-friendly platform specifically tailored for Python applications. 
-    * **Heroku:** ([https://heroku.com](https://heroku.com)) –  Heroku is a versatile cloud platform supporting various languages, including Python.
+
+    PythonAnywhere: https://www.pythonanywhere.com – PythonAnywhere offers a user-friendly platform specifically tailored for Python applications.
+    
+    Heroku: https://heroku.com –  Heroku is a versatile cloud platform supporting various languages, including Python.
 
 ---Contributing
 
