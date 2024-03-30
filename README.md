@@ -47,9 +47,8 @@ Clone this repository using terminal:
 
 This application can be deployed on cloud platforms for convenience and continuous monitoring. Here are a couple of popular options:
 
-    PythonAnywhere: https://www.pythonanywhere.com – PythonAnywhere offers a user-friendly platform specifically tailored for Python applications.
-    
-    Heroku: https://heroku.com –  Heroku is a versatile cloud platform supporting various languages, including Python.
+-PythonAnywhere: https://www.pythonanywhere.com – PythonAnywhere offers a user-friendly platform specifically tailored for Python applications.
+-Heroku: https://heroku.com –  Heroku is a versatile cloud platform supporting various languages, including Python.
 
 ---Contributing
 
