@@ -4,8 +4,11 @@ A Python project that monitors websites for downtime and sends alerts to Telegra
 ---Features
 
 -Monitors a configurable list of websites.
+
 -Sends instant Telegram notifications when a site is down.
+
 -Retries with exponential backoff for temporary outages.
+
 -Logging to keep track of monitoring activity.
 
 
@@ -48,6 +51,7 @@ Clone this repository using terminal:
 This application can be deployed on cloud platforms for convenience and continuous monitoring. Here are a couple of popular options:
 
 -PythonAnywhere: https://www.pythonanywhere.com – PythonAnywhere offers a user-friendly platform specifically tailored for Python applications.
+
 -Heroku: https://heroku.com –  Heroku is a versatile cloud platform supporting various languages, including Python.
 
 ---Contributing
