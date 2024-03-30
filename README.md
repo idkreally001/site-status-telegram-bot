@@ -18,7 +18,7 @@ A Python project that monitors websites for downtime and sends alerts to Telegra
 
 Clone this repository using terminal:
 
-"git clone https://github.com/your-username/site-status-telegram-bot.git"
+"git clone https://github.com/idkreally001/site-status-telegram-bot.git"
 
 ---Install dependencies:
 
