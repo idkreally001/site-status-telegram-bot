@@ -1,40 +1,31 @@
-###
+### How to Run the App
 
-----This file is a guide on how to run the app.
+#### Prerequisites
+- **Programming Language:** [Python](https://www.python.org/)
+- **Libraries:** `telegram`, `aiohttp`, `asyncio`
+- **Files:** `script.py`, `config.json` (both in the same directory)
 
-
-
-----Prerequisites:
-Programming Language: "Python" --> https://www.python.org/
-Libraries:"requests; python-telegram-bot"
-Files:"script.py; config.json". They need to be in the same directory.
-
----- How to Install the Libraries:
-
+#### How to Install the Libraries
 1. **Install pip (if not already available):**
-   * Refer to the official Python documentation for instructions on installing pip for your operating system. --> https://packaging.python.org/tutorials/installing-packages/
+   - Refer to the [official Python documentation](https://packaging.python.org/tutorials/installing-packages/) for instructions on installing pip for your operating system.
 
 2. **Open your terminal:**
-   * This is a command-line interface, often called "Terminal" (macOS/Linux) or "Command Prompt" (Windows).
+   - This is a command-line interface, often called "Terminal" (macOS/Linux) or "Command Prompt" (Windows).
 
 3. **Navigate to your project directory:**
-   * Use the `cd` command in your terminal to change directories. For example:
-
-     "cd Desktop/site-monitor"
+   - Use the `cd` command in your terminal to change directories. For example:
+     ```
+     cd Desktop/site-monitor
+     ```
 
 4. **Install the libraries:**
-   * Once you're in the correct directory, type the following command and press Enter:
+   - Once you're in the correct directory, type the following command and press Enter:
+     ```
+     pip install telegram aiohttp asyncio
+     ```
+   - This command tells `pip` to install 'telegram', 'aiohttp', and 'asyncio'.
 
-     "pip install requests python-telegram-bot"
-
-
-   * This command tells `pip` to install 'requests' and 'python-telegram-bot'
-
-----By following these steps, you'll have the necessary libraries installed to run this project.
-
-
-----Finally, you can go to the directory with the file in the command prompt and type "python script.py".
-###
-
-
-
+#### Running the App
+Finally, you can go to the directory with the file in the command prompt and type:
+```bash
+python script.py
