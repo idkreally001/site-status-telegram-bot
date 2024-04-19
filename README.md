@@ -26,7 +26,7 @@ A Python project that monitors websites for downtime and sends alerts to Telegra
 
     ```bash
     cd site-status-telegram-bot
-    pip install requests python-telegram-bot
+    pip install telegram aiohttp asyncio
     ```
 
 ## Configuration
@@ -45,7 +45,7 @@ A Python project that monitors websites for downtime and sends alerts to Telegra
 
 ## Additional Notes
 
-- Log File: The script creates a file `monitoring.log` for log messages.
+- Log File: The script creates a file `logs.txt` for log messages.
 - Customization: The `config.json` offers several parameters to tailor the alerting behavior.
 - Deployment (Optional): If deploying to a server, consider running the script as a background process for continuous monitoring.
 
